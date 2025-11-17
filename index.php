@@ -4,7 +4,7 @@ include 'koneksi.php';
 include 'send_whatsapp.php'; // pastikan file ini ada di folder yang sama
 
 // Nomor WhatsApp Admin (format internasional tanpa tanda +)
-$no_admin = "6281243277070"; // GANTI dengan nomor admin kamu
+$no_admin = "6281229954672"; // GANTI dengan nomor admin kamu
 
 // ====== FUNGSI HITUNG STATUS ======
 function hitungStatus($koneksi, $status) {
